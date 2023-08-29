@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: Conversor de números romanos</h1>
 
 ## :memo: Descrição
-Este projeto foi construído com objetivo de converter números arábicos em números romanos e vice e versa.  Foi criado para um teste de programação.
+Este projeto foi construído com objetivo de converter números arábicos em números romanos e vice e versa.
 
 ## :books: Funcionalidades
 
